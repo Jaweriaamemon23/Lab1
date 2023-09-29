@@ -1,6 +1,6 @@
 let a=3;
 let b=true;
-let c="KUCH BHI";
+let c="ABC";
 let d= new Date(6-10-2023);
  d.getDate();
 let e;
